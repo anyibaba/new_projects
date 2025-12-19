@@ -3,4 +3,6 @@ alert("uh-oh!");
 
 console.log("here comes trouble");
 
-console("working some more");
+console.log("working some more");
+
+console.log("doing some more");
